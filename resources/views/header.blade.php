@@ -31,4 +31,3 @@
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
-</nav><?php /**PATH C:\xampp\htdocs\project2\smartinfo\resources\views/header.blade.php ENDPATH**/ ?>

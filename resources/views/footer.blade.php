@@ -3,4 +3,4 @@
     Panel content
   </div>
   <div class="panel-footer">Panel footer</div>
-</div><?php /**PATH C:\xampp\htdocs\project2\smartinfo\resources\views/footer.blade.php ENDPATH**/ ?>
+</div>
